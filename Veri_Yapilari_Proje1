@@ -1,4 +1,9 @@
 Proje 1 ( Insertion Sort, Selection Sort, Time Complexity)
+NOTES: 
+*Sorting, kendinden sıralama algoritmaları olarak bahsetmektedir. Sorting, bir eleman dizisini, belirli sıralama kurallarına göre sıralama yapar.
+*Selection Sort: Basitçe her adımda dizideki en küçük sayının nerede olduğu bulunur. Bu sayı ile dizinin başındaki sayı yer değiştirilerek en küçük sayılar seçilerek başa atılmış olur.
+*Insertion Sort: Düzensiz dizi elemanlarını tek tek ele alarak her birini dizinin sıralanmış kısmındaki uygun yerine yerleştirme esasına dayanır.
+
 
 [22,27,16,2,18,6] 
 Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
